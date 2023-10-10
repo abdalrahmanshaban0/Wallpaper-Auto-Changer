@@ -6,4 +6,4 @@ chmod +x change.sh
 # Starting the program for current session
 ./change.sh
 ```
-Don't be shy to edit the file to choose your wallpapers directory and sleep time in seconds.
+Don't be shy to edit the file to choose your wallpapers directory, sleep time in seconds or feh options.
