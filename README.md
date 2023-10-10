@@ -1,2 +1,9 @@
 # Wallpaper_auto-changer
-Auto change the wallpaper by iterating through images in a chosen directory with "feh" image viewer.
+Auto change the wallpaper by iterating through images in a chosen directory with "feh" image viewer. You must have feh installed.
+```shell
+# Make it executable
+chmod +x change.sh
+# Starting the program for current session
+./change.sh
+```
+Don't be shy to edit the file to choose your wallpapers directory and sleep time in seconds.
